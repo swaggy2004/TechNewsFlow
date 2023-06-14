@@ -1,0 +1,25 @@
+.container-fluid .container .navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-color: #9F3335;
+}
+body {
+    background-image: -webkit-linear-gradient(270deg,rgba(130,16,255,1.00) 0%,rgba(255,107,0,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(130,16,255,1.00) 0%,rgba(255,107,0,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(130,16,255,1.00) 0%,rgba(255,107,0,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(130,16,255,1.00) 0%,rgba(255,107,0,1.00) 100%);
+}
+.container-fluid .container .navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-color: #D7181B;
+    background-image: -webkit-linear-gradient(270deg,rgba(85,0,255,1.00) 0%,rgba(85,0,255,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(85,0,255,1.00) 0%,rgba(85,0,255,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(85,0,255,1.00) 0%,rgba(85,0,255,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(85,0,255,1.00) 0%,rgba(85,0,255,1.00) 100%);
+    color: #FBFBFB;
+    font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+    font-size: large;
+}
+.navbar-nav.mr-auto .nav-item.active .nav-link {
+    color: #FFFFFF;
+}
+.navbar-nav.mr-auto .nav-item .nav-link {
+    color: #FFFCFC;
+}
